@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jaehoon Hahm, 1st year Physics PhD student at UIUC, computational condensed matter group.
+- 👋 Hi, I’m Jaehoon Hahm, 1st year Physics PhD student at UIUC, computational condensed matter group https://clark.physics.illinois.edu/.
 - 👀 I’m interested in Quantum Information & ML, Diffusion/Flow Models, Quantum Monte Carlo
 - 🌱 I’m currently learning Computational Condesed Matter, Diffusion Monte Carlo
 - 💞️ I’m looking to collaborate on any intersection between Physics & ML, Qunatum Information, Quantum Chemistry, and Generative Models.
