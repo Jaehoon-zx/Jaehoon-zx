@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jaehoon-zx
-- 👀 I’m interested in Quantum Computing, Generative Models, Diffusion Models
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me judol1@snu.ac.kr
+- 👀 I’m interested in Quantum Information & ML, Diffusion/Flow Models, Quantum Monte Carlo
+- 🌱 I’m currently learning Computational Condesed Matter, Diffusion Monte Carlo
+- 💞️ I’m looking to collaborate on any intersection between Physics & ML, Qunatum Information, Quantum Chemistry, and Generative Models.
+- 📫 How to reach me jh141@illinois.edu judol1@snu.ac.kr
 
 <!---
 Jaehoon-zx/Jaehoon-zx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
